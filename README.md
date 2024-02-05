@@ -1,3 +1,3 @@
 # MemeServer
 
-A server in c, written by ChatGPT
+A webserver in c, written by ChatGPT
